@@ -1,6 +1,6 @@
 <div align='center'>
    <h1>traffic-index</h1>
-   <p>Analyzing Traffic Patterns Made Easy!</p>
+   <p>Analisis dan visualisasi data lalu lintas yang cerdas.</p>
    <p>
       <img src='https://img.shields.io/github/last-commit/DanU-R/traffic-index?style=for-the-badge&logo=github&color=blue' alt='Last Commit'>
       <img src='https://img.shields.io/github/license/DanU-R/traffic-index?style=for-the-badge&logo=github&color=green' alt='License'>
@@ -9,46 +9,45 @@
 </div>
 
 ## 📖 About
-traffic-index is a powerful Jupyter Notebook project designed to analyze and visualize traffic data effectively. With its user-friendly interface and advanced analytical tools, it helps researchers, urban planners, and developers make data-driven decisions to improve traffic management and urban mobility.
+traffic-index adalah sebuah proyek yang dirancang untuk menganalisis dan memvisualisasikan data lalu lintas menggunakan Jupyter Notebook. Proyek ini bertujuan untuk memberikan wawasan yang mendalam mengenai pola lalu lintas dan membantu pengguna dalam pengambilan keputusan yang lebih baik terkait manajemen lalu lintas.
 
 ## 🚀 Key Features
-* ✅ **Interactive Data Visualization:** Create stunning visual representations of traffic patterns using libraries like Matplotlib and Seaborn.
-* ✅ **Real-Time Data Processing:** Analyze live traffic data feeds to get up-to-date insights into traffic conditions.
-* ✅ **Customizable Dashboards:** Build personalized dashboards to track key performance indicators relevant to your traffic analysis needs.
-* ✅ **Machine Learning Integration:** Implement machine learning models to predict traffic congestion and optimize routes.
-* ✅ **Exportable Reports:** Generate and export detailed traffic analysis reports in various formats, including PDF and HTML.
+* ✅ **Interaktif Visualisasi:** Menyediakan visualisasi interaktif untuk memudahkan pemahaman data lalu lintas.
+* ✅ **Analisis Waktu Nyata:** Memungkinkan analisis data lalu lintas secara real-time untuk pengambilan keputusan yang cepat.
+* ✅ **Integrasi Dataset:** Kemampuan untuk mengintegrasikan berbagai jenis dataset lalu lintas dari sumber yang berbeda.
+* ✅ **Model Prediksi:** Menggunakan algoritma machine learning untuk memprediksi pola lalu lintas di masa depan.
+* ✅ **Sistem Laporan:** Menghasilkan laporan otomatis berdasarkan analisis yang dilakukan.
 
 ## 🛠️ Tech Stack
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFCA28?style=for-the-badge&logo=jupyter&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-30B8E3?style=for-the-badge&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFAA33?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## ⚙️ Installation
-To get started with traffic-index, follow these steps:
+Untuk menginstal proyek ini, ikuti langkah-langkah berikut:
 
-1. **Clone the repository**: First, you need to clone the project to your local machine. Run the following command:
+1. Pertama, clone repository ini ke mesin lokal Anda.
    ```bash
    git clone https://github.com/DanU-R/traffic-index.git
    ```
-   
-2. **Navigate into the project directory**: Change into the directory where the project is located.
+
+2. Selanjutnya, pindah ke direktori proyek yang baru saja di-clone.
    ```bash
    cd traffic-index
    ```
 
-3. **Install required packages**: Make sure you have Jupyter Notebook and the necessary libraries installed. You can install them using pip:
+3. Pastikan Anda memiliki Jupyter Notebook terinstal. Jika belum, Anda dapat menginstalnya menggunakan pip.
    ```bash
-   pip install -r requirements.txt
+   pip install jupyter
    ```
 
-4. **Launch Jupyter Notebook**: Start the Jupyter Notebook server to access the project files.
+4. Setelah itu, Anda dapat menjalankan Jupyter Notebook dengan perintah berikut.
    ```bash
    jupyter notebook
    ```
 
+5. Terakhir, buka file notebook yang diinginkan dan mulai eksplorasi data lalu lintas!
+
 ## 🤝 Contributing
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Kontribusi sangat diterima! Jika Anda memiliki saran atau perbaikan, silakan lakukan fork pada repository ini dan kirimkan pull request.
 
 ## 📄 License
-This project is licensed under the MIT License.
+Proyek ini dilisensikan di bawah MIT License.
